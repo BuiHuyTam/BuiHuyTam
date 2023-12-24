@@ -8,7 +8,7 @@ Hello there! I'm currently a student at Can Tho University, where I'm exploring 
 
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [bhtam28@gmail.com](mailto:bhtam28@gmail.com)
-* 🧠  I'm learning Spring, JS and ReactJS
+* 🧠  I'm learning Java 
 
 ### Skills
 
