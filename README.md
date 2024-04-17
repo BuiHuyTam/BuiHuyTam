@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bui Huy Tam
 ===================================================================================================================================
 
-Fresher Web Development
+
 -----------------------
 
 Hello there! I'm currently a student at Can Tho University, where I'm exploring the fascinating world of technology. My passion lies in web development, and I'm on a journey to turn my enthusiasm into innovative web solutions. As a coding enthusiast, I enjoy crafting web applications that not only look sleek but also deliver seamless user experiences. I believe in the power of clean code and the magic it brings to turning ideas into reality. Join me on this coding adventure as I explore the ever-evolving landscape of web development. From frontend frameworks to backend technologies, I'm always eager to learn and implement the latest tools and techniques. Happy coding! 🌟
