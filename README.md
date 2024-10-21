@@ -12,11 +12,13 @@ I have a strong passion for Mobile Developing, DevOps, and Cloud Services. I am 
 ### Skills
 
 
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer" style="margin-right: 15px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 15px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<p align="left"> 
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
 
