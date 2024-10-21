@@ -1,12 +1,11 @@
 Hi 👋 My name is Bui Huy Tam
 ============================
 
-Mobile Development
+Software Engineer
 ------------------
 
 * 🌍  I'm based in Vietnam
-* ✉️  You can contact me at [bhtam28@gmail.com](mailto:bhtam28@gmail.com)
-* 🧠  I'm learning Flutter
+* ✉️  You can contact me at [bhtam28@gmail.com](mailto:bhtam28.work@gmail.com)
 
 ### Skills
 
