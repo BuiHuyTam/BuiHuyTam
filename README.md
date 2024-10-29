@@ -1,4 +1,4 @@
-Hi 👋 I'm Tam
+Hi, I'm Tam 👋
 ====================
 
 I have a strong passion for Mobile Developing, DevOps, and Cloud Services. I am always looking for opportunities to learn and develop my skills in building and maintaining efficient and reliable software systems.
