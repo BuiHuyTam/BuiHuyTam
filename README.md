@@ -1,4 +1,4 @@
-Hi 👋 My name is Tam
+Hi 👋 I'm Tam
 ====================
 
 Software Engineer
