@@ -1,7 +1,7 @@
 Hi, I'm Tam 👋
 ====================
 
-* 🌍  I'm based in Vietnam
+* 🌍  I'm a Software Engineer based in Vietnam
 * ✉️  You can contact me at [bhtam28.work@gmail.com](mailto:bhtam28.work@gmail.com)
 
 ### Skills
