@@ -1,8 +1,6 @@
 Hi, I'm Tam 👋
 ====================
 
-I have a strong passion for Mobile Developing, DevOps, and Cloud Architect. I am always looking for opportunities to learn and develop my skills in building and maintaining efficient and reliable software systems.
-
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [bhtam28.work@gmail.com](mailto:bhtam28.work@gmail.com)
 
